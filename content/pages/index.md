@@ -30,7 +30,7 @@ sections:
         elementId: hero-main-button
         showIcon: true
       - type: Button
-        label: Learn More
+        label: Learn Moreasdf
         url: 'https://www.stackbit.com/'
         style: secondary
     feature:
