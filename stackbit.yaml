@@ -46,7 +46,7 @@ models:
             label: Decoration
             controlType: button-group
             options:
-              - label: Narrow
+              - label: None
                 value: narrow
               - label: Wide
                 value: wide
