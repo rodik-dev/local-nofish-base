@@ -17,7 +17,7 @@ module.exports = {
                 // primary: '#207bea'
             },
             borderRadius: {
-                '4xl': '2rem',
+                '4xl': '2rem'
             }
 
         }
