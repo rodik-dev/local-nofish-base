@@ -35,6 +35,7 @@ models:
             controlType: 'slider'
             min: 0
             max: 100
+            unit: 'px'
       - type: object
         name: h2
         label: H2
