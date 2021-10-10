@@ -50,7 +50,7 @@ models:
                 value: none
               - label: Underscore
                 value: underscore
-              - label: S̶
+              - label: Strikethrough
                 value: strikethrough
       - type: object
         name: h2
