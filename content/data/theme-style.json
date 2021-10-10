@@ -1,0 +1,11 @@
+{
+    "type": "ThemeStyle",
+    "h1": {
+        "style": "Bold",
+        "size": 25
+    },
+    "h2": {
+        "style": "Bold",
+        "size": 18
+    }
+}
