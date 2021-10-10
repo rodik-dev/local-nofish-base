@@ -14,8 +14,8 @@ objectTypeKey: type
 fieldGroups:
   - name: text-styles
     label: Text styles
-  - name: arrangments
-    label: Arrangments
+  - name: color-palettes
+    label: Color Palettes
 models:
   ThemeStyle:
     type: data
