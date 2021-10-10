@@ -15,8 +15,11 @@ module.exports = {
         extend: {
             colors: {
                 // primary: '#207bea'
-                border
+            },
+            borderRadius: {
+                '4xl': '2rem',
             }
+
         }
     },
     variants: {
