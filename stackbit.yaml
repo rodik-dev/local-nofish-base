@@ -41,7 +41,8 @@ models:
             max: 100
             step: 2
             unit: 'px'
-          - 
+          - type: enum
+            
       - type: object
         name: h2
         label: H2
