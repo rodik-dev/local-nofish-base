@@ -11,3 +11,32 @@ dataDir: content/data
 pagesDir: content/pages
 pageLayoutKey: layout
 objectTypeKey: type
+models:
+  ThemeStyle:
+    type: data
+    name: ThemeStyle
+    label: Theme Style
+    file: theme-style.json
+    fields:
+      - type: object
+        name: h1
+        label: H1
+        group: Text styles
+        fields:
+          - type: string
+            name: style
+            label: style
+          - type: number
+            name: size
+            label: Size
+      - type: object
+        name: h2
+        label: H2
+        group: Text styles
+        fields:
+          - type: string
+            name: style
+            label: style
+          - type: number
+            name: size
+            label: Size
