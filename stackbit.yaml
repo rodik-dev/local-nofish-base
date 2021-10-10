@@ -42,8 +42,8 @@ models:
             step: 2
             unit: 'px'
           - type: enum
-            name: width
-            label: Width
+            name: decoration
+            label: Decoration
             group: design
             controlType: button-group
             options:
