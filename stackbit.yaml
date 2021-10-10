@@ -48,7 +48,7 @@ models:
             options:
               - label: None
                 value: none
-              - label: Wide
+              - label: Underscore
                 value: wide
               - label: Full
                 value: full
