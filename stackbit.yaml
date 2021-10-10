@@ -41,8 +41,18 @@ models:
             max: 100
             step: 2
             unit: 'px'
-          - type: enum
-            
+- type: enum
+  name: width
+  label: Width
+  group: design
+  controlType: button-group
+  options:
+    - label: Narrow
+      value: narrow
+    - label: Wide
+			value: wide
+    - label: Full
+			value: full
       - type: object
         name: h2
         label: H2
