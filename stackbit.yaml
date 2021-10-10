@@ -12,8 +12,8 @@ pagesDir: content/pages
 pageLayoutKey: layout
 objectTypeKey: type
 fieldGroups:
-  - name: design
-    label: Design
+  - name: text
+    label: Text styles
   - name: arrangments
     label: Arrangments
 models:
