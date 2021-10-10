@@ -32,9 +32,9 @@ models:
           - type: number
             name: lineHeight
             controlType: 'slider'
-            min: 100
-            max: 200
-            step: 20
+            min: 0
+            max: 100
+            step: 2
             unit: 'px'
       - type: object
         name: h2
