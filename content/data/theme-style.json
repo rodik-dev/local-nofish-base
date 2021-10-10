@@ -2,7 +2,8 @@
     "type": "ThemeStyle",
     "h1": {
         "style": "Bold",
-        "size": 21
+        "size": 21,
+        "lineHeight": 52
     },
     "h2": {
         "style": "Bold",
