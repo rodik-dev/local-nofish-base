@@ -50,4 +50,4 @@ models:
       - type: color
         name: primary1
         label: Primary 1
-        group: Color pallets
+        group: Color palettes
