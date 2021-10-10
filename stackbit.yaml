@@ -44,7 +44,6 @@ models:
           - type: enum
             name: decoration
             label: Decoration
-            group: design
             controlType: button-group
             options:
               - label: Narrow
