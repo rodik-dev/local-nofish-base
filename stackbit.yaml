@@ -11,6 +11,11 @@ dataDir: content/data
 pagesDir: content/pages
 pageLayoutKey: layout
 objectTypeKey: type
+fieldGroups:
+  - name: design
+    label: Design
+  - name: arrangments
+    label: Arrangments
 models:
   ThemeStyle:
     type: data
