@@ -49,9 +49,9 @@ models:
               - label: None
                 value: none
               - label: Underscore
-                value: wide
+                value: underscore
               - label: Strikethrough
-                value: full
+                value: strikethrough
       - type: object
         name: h2
         label: H2
