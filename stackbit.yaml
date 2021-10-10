@@ -32,7 +32,7 @@ models:
           - type: number
             name: line-height
             label: Line Height
-            control-type: slider
+            controlType: 'slider'
       - type: object
         name: h2
         label: H2
