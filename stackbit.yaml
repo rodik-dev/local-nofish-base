@@ -34,7 +34,7 @@ models:
             label: Line Height
             controlType: 'slider'
             min: 0
-            max: 
+            max: 100
       - type: object
         name: h2
         label: H2
