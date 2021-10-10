@@ -17,6 +17,11 @@ models:
     name: ThemeStyle
     label: Theme Style
     file: theme-style.json
+    fieldGroups:
+    - name: text-styles
+      label: Text styles
+    - name: color-palettes
+      label: Color Palettes
     fields:
       - type: object
         name: h1
