@@ -12,7 +12,7 @@ pagesDir: content/pages
 pageLayoutKey: layout
 objectTypeKey: type
 fieldGroups:
-  - name: text
+  - name: text-styles
     label: Text styles
   - name: arrangments
     label: Arrangments
