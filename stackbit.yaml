@@ -47,7 +47,7 @@ models:
             controlType: button-group
             options:
               - label: None
-                value: narrow
+                value: none
               - label: Wide
                 value: wide
               - label: Full
