@@ -47,3 +47,7 @@ models:
           - type: number
             name: size
             label: Size
+      - type: color
+        name: primary1
+        label: Primary 1
+        group: Color pallets
