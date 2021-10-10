@@ -2,7 +2,7 @@
     "type": "ThemeStyle",
     "h1": {
         "style": "Bold",
-        "size": 25
+        "size": 21
     },
     "h2": {
         "style": "Bold",
