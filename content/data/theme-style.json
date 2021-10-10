@@ -3,7 +3,7 @@
     "h1": {
         "style": "Bold",
         "size": 21,
-        "lineHeight": 10
+        "lineHeight": 104
     },
     "h2": {
         "style": "Bold",
