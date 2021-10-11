@@ -95,11 +95,11 @@ models:
         group: color-palettes
       - type: color
         name: complimentary-1
-        label: complimentary 1
+        label: Complimentary 1
         group: color-palettes
       - type: color
         name: complimentary-2
-        label: complimentary 2
+        label: Complimentary 2
         group: color-palettes
       - type: color
         name: info
