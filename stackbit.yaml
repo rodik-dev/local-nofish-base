@@ -48,7 +48,7 @@ models:
             options:
               - label: None
                 value: none
-              - label: Underscore
+              - label: underline
                 value: underline
               - label: Strikethrough
                 value: line-through
