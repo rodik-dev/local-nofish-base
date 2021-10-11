@@ -102,6 +102,6 @@ models:
         label: Complementary 1
         group: color-palettes
       - type: color
-        name: secondary
-        label: Secondary
+        name: complementary-2
+        label: Complementary 2
         group: color-palettes
