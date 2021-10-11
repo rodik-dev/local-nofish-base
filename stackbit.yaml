@@ -50,7 +50,7 @@ models:
                 value: none
               - label: Underline
                 value: underline
-              - label: line-through
+              - label: Line-through
                 value: line-through
       - type: object
         name: h2
