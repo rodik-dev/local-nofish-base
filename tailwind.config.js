@@ -25,7 +25,7 @@ module.exports = {
     plugins: [
         plugin(function ({ addBase, theme }) {
             addBase({
-                'h1': { fontSize: themeStyle.h1.size, lineHeight: themeStyle.h1.lineHeight },
+                'h1': { fontSize: themeStyle.h1.size, lineHeight: themeStyle.h1.lineHeight+'px' },
                 'h2': { fontSize: themeStyle.h2.size, lineHeight: themeStyle.h2.lineHeight },
             })
         })
