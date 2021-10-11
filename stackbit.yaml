@@ -94,12 +94,12 @@ models:
         label: Base
         group: color-palettes
       - type: color
-        name: complementary-1
-        label: Complementary 1
+        name: complimentary-1
+        label: complimentary 1
         group: color-palettes
       - type: color
-        name: complementary-2
-        label: Complementary 2
+        name: complimentary-2
+        label: complimentary 2
         group: color-palettes
       - type: color
         name: info
