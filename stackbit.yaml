@@ -48,10 +48,10 @@ models:
             options:
               - label: None
                 value: none
-              - label: underline
+              - label: Underline
                 value: underline
               - label: line-through
-                value: line-through
+                value: Line-through
       - type: object
         name: h2
         label: H2
