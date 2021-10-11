@@ -19,7 +19,7 @@ module.exports = {
                 primary: themeStyle.base,
                 primary: themeStyle['complementary-1'],
                 primary: themeStyle['complementary-2'],
-            
+                primary: themeStyle['complementary-2']
             }
 
         }
