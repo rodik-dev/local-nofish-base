@@ -85,3 +85,7 @@ models:
         name: primary
         label: Primary
         group: color-palettes
+      - type: color
+        name: secondary
+        label: Secondary
+        group: color-palettes
