@@ -90,8 +90,8 @@ models:
         label: Secondary
         group: color-palettes
       - type: color
-        name: secondary
-        label: Secondary
+        name: base
+        label: Base
         group: color-palettes
       - type: color
         name: secondary
