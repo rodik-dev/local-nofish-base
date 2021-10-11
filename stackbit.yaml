@@ -82,6 +82,6 @@ models:
               - label: Line-through
                 value: line-through
       - type: color
-        name: primary1
-        label: Primary 1
+        name: primary
+        label: Primary 
         group: color-palettes
