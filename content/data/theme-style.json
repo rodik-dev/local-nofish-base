@@ -4,7 +4,7 @@
         "style": "Bold",
         "size": 60,
         "lineHeight": 60,
-        "decoration": "no ne"
+        "decoration": "none"
     },
     "h2": {
         "style": "Bold",
