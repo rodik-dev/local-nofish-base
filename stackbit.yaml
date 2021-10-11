@@ -77,9 +77,9 @@ models:
             options:
               - label: None
                 value: none
-              - label: Underscore
-                value: underscore
-              - label: Strikethrough
+              - label: Underline
+                value: underline
+              - label: Line-through
                 value: line-through
       - type: color
         name: primary1
