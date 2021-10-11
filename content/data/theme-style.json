@@ -3,12 +3,14 @@
     "h1": {
         "style": "Bold",
         "size": 21,
-        "lineHeight": 36,
+        "lineHeight": ,
         "decoration": "none"
     },
     "h2": {
         "style": "Bold",
-        "size": 48
+        "size": 48,
+        "lineHeight": 48,
+        "decoration": "none"
     },
     "primary1": "#4C57C5"
 }
