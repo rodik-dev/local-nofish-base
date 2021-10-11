@@ -15,10 +15,10 @@ module.exports = {
         extend: {
             colors: {
                 primary: themeStyle.primary,
-                primary: themeStyle.primary,
-                primary: themeStyle.primary,
-                primary: themeStyle.primary,
-                primary: themeStyle.primary,
+                primary: themeStyle.secondary,
+                primary: themeStyle.base,
+                primary: themeStyle['complementary-1'],
+                primary: themeStyle['complementary-2'],
             
             }
 
