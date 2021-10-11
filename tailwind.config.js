@@ -14,7 +14,12 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                primary: themeStyle.primary
+                primary: themeStyle.primary,
+                primary: themeStyle.primary,
+                primary: themeStyle.primary,
+                primary: themeStyle.primary,
+                primary: themeStyle.primary,
+            
             }
 
         }
