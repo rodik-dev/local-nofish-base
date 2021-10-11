@@ -98,8 +98,8 @@ models:
         label: Secondary
         group: color-palettes
       - type: color
-        name: secondary
-        label: Secondary
+        name: complementary-1
+        label: Complementary 1
         group: color-palettes
       - type: color
         name: secondary
