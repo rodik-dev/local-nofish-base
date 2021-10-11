@@ -83,5 +83,5 @@ models:
                 value: line-through
       - type: color
         name: primary
-        label: Primary 
+        label: Primary
         group: color-palettes
