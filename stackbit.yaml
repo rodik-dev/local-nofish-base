@@ -51,7 +51,7 @@ models:
               - label: Underscore
                 value: underscore
               - label: Strikethrough
-                value: strikethrough
+                value: line-through
       - type: object
         name: h2
         label: H2
@@ -80,7 +80,7 @@ models:
               - label: Underscore
                 value: underscore
               - label: Strikethrough
-                value: strikethrough
+                value: line-through
       - type: color
         name: primary1
         label: Primary 1
