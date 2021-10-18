@@ -4,6 +4,7 @@ layout: AdvancedLayout
 sections:
   - type: ExampleSection
     title: Let's do this
+    logos: []
   - type: HeroSection
     elementId: homepage-hero-1
     variant: variant-a
