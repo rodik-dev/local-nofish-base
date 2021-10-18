@@ -2,16 +2,7 @@
 title: Home
 layout: AdvancedLayout
 sections:
-  - type: CtaSection
-    variant: variant-b
-    colors: colors-c
-    width: wide
-    height: short
-    textAlign: left
-    contentAlignHoriz: center
-    contentWidth: medium
-    bottomGap: none
-    topGap: none
+  - type: ExampleSection
     title: Let's do this
   - type: HeroSection
     elementId: homepage-hero-1
