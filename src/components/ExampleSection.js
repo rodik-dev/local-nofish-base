@@ -4,7 +4,7 @@ const ExampleSection = (props) => {
     const { logos, title } = props;
     return (
         <div className="max-w-screen-xl mx-auto px-4 sm:px-6 py-14 lg:py-20 mt-10 mb-10 text-center">
-            <h1 className="text-3xl tracking-tight sm:text-4xl mb-2">{title}</h1>
+            <h1 className="text-3xl tracking-tight sm:text-4xl mb-2" data-sb-object-id="blablabla">{title}</h1>
             <div className="flex justify-center items-center">
                 {logos.map((logo, index) => (
                     <div className="p-6" key={index}>
